@@ -33,4 +33,4 @@ The database service used in this case study for the storage layer is the multi 
 - The application layer queries the database through the elb for efficiency, and sends the data back to the web layer which then processes it to visual content for the user to see.
 - These components have been established in another region to further scale for availability and also to achieve greater fault tolerance.
 
-![The image shows the visual description of all that is described in the 3-tier architecture.](src=https://github.com/s3koni/AWS-3-Tier-Architecture/blob/main/architecture%20schematics.jpg)
+![The image shows the visual description of all that is described in the 3-tier architecture.](https://github.com/s3koni/AWS-3-Tier-Architecture/blob/main/architecture%20schematics.jpg)
